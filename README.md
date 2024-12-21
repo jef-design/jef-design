@@ -1,6 +1,6 @@
 # Hi, I'm Jef! 👋
 
-I'm a software engineer passionate about building impactful applications and contributing to the tech community. 
+I'm a Full stack web developer passionate about building impactful applications and contributing to the tech community. 
 
 ### 🔭 Current Projects:
 - [Linklys](https://github.com/username/project-a): A bio link tool you can manage you links or social link in one bio.
