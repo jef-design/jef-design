@@ -12,8 +12,8 @@ I'm a software engineer passionate about building impactful applications and con
 
 ### 📈 Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?jef-design=jef-design&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-design&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-design&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning:
 - TypeScript
