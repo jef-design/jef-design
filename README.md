@@ -3,7 +3,7 @@
 I'm a Full stack web developer passionate about building impactful applications and contributing to the tech community. 
 
 ### 🛠️ Skills:
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,react,nodejs,express,mongodb,html,css,php,mysql,prisma,tailwind,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,react,nodejs,express,mongodb,html,css,php,mysql,prisma,tailwind,postman,figma)](https://skillicons.dev)
 
 
 ### 📈 Stats:
