@@ -7,8 +7,8 @@ I'm a Full stack web developer passionate about building impactful applications 
 
 
 ### 📈 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-design&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-design&layout=compact&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-design&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-design&layout=compact&theme=radical)-->
 
 ### 🌱 Currently Learning:
 - GraphQL
