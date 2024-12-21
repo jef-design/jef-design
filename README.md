@@ -2,10 +2,6 @@
 
 I'm a Full stack web developer passionate about building impactful applications and contributing to the tech community. 
 
-### 🔭 Current Projects:
-- [Linklys](https://github.com/username/project-a): A bio link tool you can manage you links or social link in one bio.
-- [Amane](https://github.com/username/project-b): An anime streaming platforms for anime lovers.
-
 ### 🛠️ Skills:
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,react,nodejs,express,mongodb,html,css,php,mysql,prisma,tailwind,postman)](https://skillicons.dev)
 
@@ -15,9 +11,7 @@ I'm a Full stack web developer passionate about building impactful applications 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-design&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning:
-- TypeScript
 - GraphQL
-- Prisma
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
