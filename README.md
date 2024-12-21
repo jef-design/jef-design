@@ -7,6 +7,7 @@ I'm a Full stack web developer passionate about building impactful applications 
 - [Amane](https://github.com/username/project-b): An anime streaming platforms for anime lovers.
 
 ### 🛠️ Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,reactjs,nodejs,express,mongodb,html,css,wasm)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
