@@ -12,7 +12,7 @@ I'm a software engineer passionate about building impactful applications and con
 
 ### 📈 Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?jef-design=jef-design&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning:
 - TypeScript
